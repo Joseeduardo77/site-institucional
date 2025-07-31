@@ -1,12 +1,17 @@
-# React + Vite
+# 🏢 Site Institucional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um site institucional moderno desenvolvido com React. Ele apresenta informações da empresa de forma clara, responsiva e com navegação simples.
 
-Currently, two official plugins are available:
+## 🚀 Acesse o site  
+👉 [Clique aqui para acessar o site](https://joseeduardo77.github.io/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙ Funcionalidades  
+- Layout responsivo para dispositivos móveis e desktops  
+- Navegação entre seções principais (Sobre, Serviços, Contato)  
+- Componentização para facilitar manutenção e expansão  
+- Formulário de contato  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tecnologias usadas  
+- React.js  
+- JavaScript (ES6+)  
+- CSS3  
